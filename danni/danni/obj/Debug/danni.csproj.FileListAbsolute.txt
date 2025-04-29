@@ -1,0 +1,7 @@
+C:\Users\1409-2\source\repos\danni\danni\bin\Debug\danni.exe.config
+C:\Users\1409-2\source\repos\danni\danni\bin\Debug\danni.exe
+C:\Users\1409-2\source\repos\danni\danni\bin\Debug\danni.pdb
+C:\Users\1409-2\source\repos\danni\danni\obj\Debug\danni.csproj.AssemblyReference.cache
+C:\Users\1409-2\source\repos\danni\danni\obj\Debug\danni.csproj.CoreCompileInputs.cache
+C:\Users\1409-2\source\repos\danni\danni\obj\Debug\danni.exe
+C:\Users\1409-2\source\repos\danni\danni\obj\Debug\danni.pdb
